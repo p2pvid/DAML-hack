@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application simulates processing a healthcare claim in developing countries like India, bangladesh and others.. Healthcare in these countries is financed through a complex mixture of public subsidies, mandatory personal savings and optional, integrated commercial health insurance. This complexity has resulted in uneven and manual workflows in order to determine the precise amounts owed by MediShield (the public subsidy), the IP Insurer (the commercial healthplan), and the Patient. The application demonstates a straight-thru, real-time process for multi-lateral claims process, starting with the scheduling of a hospital procedure, including the generation of a "Letter of Guarantee" from the commercial insurer, checking in the patient on the date of the appointment, checking out the patient after service delivery, generation of the claim, and finally, payment for the procedure by all parties. 
+This application simulates processing a healthcare claim in developing countries like India, bangladesh and others.. Healthcare in these countries is financed through a complex mixture of public subsidies, mandatory personal savings and optional, integrated commercial health insurance. This complexity has resulted in uneven and manual workflows in order to determine the precise amounts owed by IRDAI (the public subsidy), the IP Insurer (the commercial healthplan), and the Patient. The application demonstates a straight-thru, real-time process for multi-lateral claims process, starting with the scheduling of a hospital procedure, including the generation of a "Letter of Guarantee" from the commercial insurer, checking in the patient on the date of the appointment, checking out the patient after service delivery, generation of the claim, and finally, payment for the procedure by all parties. 
 
 ## Getting Started
 
@@ -29,5 +29,5 @@ Be sure you have the following installed.
 1. Stop the Sandbox and the Navigator by pressing **Ctrl+C** in the DAML assistant.
 
 
-CONFIDENTIAL © 2021 Digital Asset (Switzerland) GmbH and/or its affiliates. All rights reserved.
-Any unauthorized use, duplication or distribution is strictly prohibited.
+IRDAI: https://www.irdai.gov.in/
+
